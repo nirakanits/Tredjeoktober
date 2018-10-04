@@ -47,3 +47,12 @@ h1 {
   .ready{
     background-color: #8AAD16;
   }
+
+
+  .resultSection {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+  }
